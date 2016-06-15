@@ -1,4 +1,4 @@
-# Isochrone-TL
+# IsochroneTL
 ##Demo
 ![Demo](https://github.com/lamourj/IsochroneTL/blob/master/data/Isochrone_Demo.gif)
 
